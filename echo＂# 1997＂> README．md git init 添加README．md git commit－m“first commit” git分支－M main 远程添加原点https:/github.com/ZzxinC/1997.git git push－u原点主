@@ -1,0 +1,7 @@
+echo＂# 1997＂> README．md
+git init
+添加README．md
+git commit－m“first commit”
+git分支－M main
+远程添加原点https://github.com/ZzxinC/1997.git
+git push－u原点主
